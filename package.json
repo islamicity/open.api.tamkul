@@ -1,0 +1,22 @@
+{
+  "name": "open.api.tamkul",
+  "version": "1.0.0",
+  "description": "open api tamkul web id => open.api.tamkul.web.id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islamicity/open.api.tamkul.git"
+  },
+  "author": "Benn Al TamanKuliner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/islamicity/open.api.tamkul/issues"
+  },
+  "homepage": "https://github.com/islamicity/open.api.tamkul#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
